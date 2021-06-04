@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+    color: chartreuse;
+}
+
+#heading {
+    font-family: 'Itim', cursive;
+    font-size: 75px;
+    margin-top: 0%;
+    font-weight:100;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hl1 {
+    color:chartreuse;
+    font-weight: 900;
+    margin-right: -1%;
+}
+
+#hl2 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl3 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl4 {
+    color: chartreuse;
+    margin-right: -1%;
+}
+
+#hl5 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl6 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#my_apps_img1 {
+    width:70%;
+    border-radius: 20px;
+    height: 85%;
+    margin-top: 7.5px;
+}
+
+#my_apps_div1 {
+    background-color: rgb(219, 218, 215);
+    width:30%;
+    height: 30%;
+    border-radius: 10px;
+    margin-left: -65%;
+    margin-top: 2%;
+}
+
+#my_apps_img2 {
+    width:70%;
+    border-radius: 20px;
+    height: 85%;
+    margin-top: 7.5px;
+}
+
+#my_apps_div2 {
+    background-color: rgb(219, 218, 215);
+    width:30%;
+    height: 30%;
+    border-radius: 10px;
+    margin-left: -65%;
+    margin-top: 2%;
+}
+
+#my_apps_img3 {
+    width:70%;
+    border-radius: 20px;
+    height: 85%;
+    margin-top: 7.5px;
+}
+
+#my_apps_div3 {
+    background-color: rgb(219, 218, 215);
+    width:25%;
+    height: 50%;
+    border-radius: 10px;
+    margin-left: 0%;
+    margin-top: -31%;
+}
+
+#my_apps_img4 {
+    width:70%;
+    border-radius: 20px;
+    height: 85%;
+    margin-top: 7.5px;
+}
+
+#my_apps_div4 {
+    background-color: rgb(219, 218, 215);
+    width:30%;
+    height: 30%;
+    border-radius: 10px;
+    margin-left: 65%;
+    margin-top: -24%;
+}
+
+#my_apps_div5 {
+    background-color: rgb(219, 218, 215);
+    width:30%;
+    height: 30%;
+    border-radius: 10px;
+    margin-left: 65%;
+    margin-top: 2%;
+}
+
+#more_games {
+    background-color: black;
+    width:70%;
+    border-radius: 20px;
+    height: 85%;
+    font-size: 300%;
+    color: chartreuse;
+    vertical-align:middle;
+    font-family: 'Orbitron', sans-serif;
+    padding-top: 10%;
+    margin-top: 3%;
+    cursor:pointer;
+}

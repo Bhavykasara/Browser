@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>Clock</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <link rel='stylesheet' type='text/css' media='screen' href='style(3).css'>
+        <script src="main(3).js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@100&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    </head>
+    <body style="background-color: rgb(0, 0, 0);">
+        <center>
+            <h1 id="heading">
+                <label id="hl1">D</label>
+                <label id="hl2">o</label>
+                <label id="hl3">o</label>
+                <label id="hl4">g</label>
+                <label id="hl5">l</label>
+                <label id="hl6">e </label>
+                <label id="hl1">&nbsp;C</label>
+                <label id="hl2">l</label>
+                <label id="hl3">o</label>
+                <label id="hl4">c</label>
+                <label id="hl5">k</label>
+            </h1>
+            <hr>
+            <hr>
+            <hr>
+        </center>
+        <section id="current_section">
+            <label id="t1_h" class="text text-default">Current Time</label><br>
+            <label id="time"></label>
+        </section>
+        <section id="current_date">
+            <label id="t2_h">Current Date</label>
+            <label id="date"></label>
+        </section>
+        <section id="stopwatch">
+            <label id="t3_h">Stopwatch</label><br>
+            <label id="stop">00:00:00</label><br>
+            <button class="btn b" onclick="start()">Start</button>
+            <button class="btn b" onclick="stop()">Stop</button>
+            <button class="btn b" onclick="reset()">Reset</button>
+        </section>
+        <section id="timer">
+            <label id="t4_h">Time in 12 hour clock</label><br>
+            <label id="hr12">00:00:00</label><br>
+        </section>
+    </body>
+</html>

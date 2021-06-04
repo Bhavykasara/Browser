@@ -1,0 +1,109 @@
+#heading {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 75px;
+    margin-top: 0%;
+    font-weight:100;
+}
+
+#hl1 {
+    color:chartreuse;
+    font-weight: 900;
+    margin-right: -1%;
+}
+
+#hl2 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl3 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl4 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl5 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#hl6 {
+    color:chartreuse;
+    margin-right: -1%;
+}
+
+#input1 {
+    width: 20%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+#input2 {
+    width: 20%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+#main {
+    color: rgb(0, 255, 13);
+    background-color: black;
+    height: 1px;
+    margin-top: 1%;
+    width: 50%;
+}
+
+#cal {
+    margin-top: 5%;
+}
+
+#answer {
+    margin-right: 15%;
+    color: chartreuse;
+}
+
+#sub {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 550;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    font-size: 140%;
+}
+
+#ans {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 550;
+    margin-left: 18%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    font-size: 140%;
+}
+
+#a {
+    border: solid 1px black;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#s {
+    border: solid 1px black;
+    margin-right: 10%;
+}
+
+#m {
+    border: solid 1px black;
+    margin-right: 10%;
+}
+
+#d {
+    border: solid 1px black;
+    margin-right: 10%;
+}
+
+#btn {
+    margin-top: 15%;
+}
